@@ -1,0 +1,8 @@
+.fseventsd
+.Trashes
+.Spotlight-V100
+$RECYCLE.BIN
+.DS_Store
+__pycache__
+*.pyc
+.idea/
