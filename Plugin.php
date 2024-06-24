@@ -1,15 +1,16 @@
 <?php
-/**
- * 自定义字段管理
- *
- * @package customFields
- * @author 马春杰
- * @version 1.1.0
- * @link https://www.machunjie.com/opensource/1662.html
- * @link_gitee https://gitee.com/public_sharing/Comment2PushDeer
- * @link_github https://github.com/ma3252788/Comment2PushDeer
- */
 
+/**
+ * Typecho自定义字段
+ * 最新版本：v1.0.0
+ *
+ * @package CustomFields
+ * @author 马春杰
+ * @version 1.0.0
+ * @link https://www.machunjie.com/opensource/1792.html
+ * @link_gitee https://gitee.com/public_sharing/CustomFields
+ * @link_github https://github.com/ma3252788/CustomFields
+ */
 if (!defined('__TYPECHO_ROOT_DIR__')) exit;
 
 class CustomFields_Plugin implements Typecho_Plugin_Interface
